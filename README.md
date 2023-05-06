@@ -1,6 +1,8 @@
 # Data-Structure
 Linked List in C
 
-# Compile it
+## Compile it
 gcc main.c
+
+## Run it
 ./a.out
